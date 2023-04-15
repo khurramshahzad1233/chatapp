@@ -1,0 +1,10 @@
+.groupchatcontainer{
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(137, 119, 119);
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    
+}

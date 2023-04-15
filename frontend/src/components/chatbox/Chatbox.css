@@ -1,0 +1,35 @@
+.chatboxcontainer{
+    width: 60vw;
+    height: 90%;
+    background-color: rgb(211, 198, 181);
+}
+.startchatmessage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .userprofilemodel{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+} */
+
+.right{
+    background-color: aqua;
+    position: relative;
+    /* left: 150px; */
+    border: 2px solid gray;
+    text-align: right;
+
+}
+.neutral{
+    background-color: initial;
+
+}

@@ -1,0 +1,15 @@
+.mychatlistcontainer{
+    background-color: azure;
+    min-height: 100vh;
+    width: 30vw;
+}
+.mychatlistcontainer>div:nth-child(1){
+    display: flex;
+
+}
+.blue{
+    background-color: aqua;
+}
+.white{
+    background-color: initial;
+}

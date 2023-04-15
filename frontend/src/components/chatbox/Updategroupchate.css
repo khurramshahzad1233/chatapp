@@ -1,0 +1,8 @@
+.updategroupchatcontainer{
+    width: 30vw;
+    height: 30vh;
+    background-color: aquamarine;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}

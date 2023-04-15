@@ -1,0 +1,9 @@
+.userprofilecontainer{
+    width: 30vw;
+    height: 30vh;
+    position: fixed;
+    top: 40%;
+    left: 20%;
+    background-color: antiquewhite;
+    display: flex;
+}
